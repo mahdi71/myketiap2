@@ -75,7 +75,7 @@ SOFTWARE.
 
         <config-file target="AndroidManifest.xml" parent="/manifest">
             <!-- In-App Billing Permission -->
-            <uses-permission android:name="com.android.vending.BILLING" />
+            <uses-permission android:name="ir.mservices.market.BILLING" />
         </config-file>
 
         <!-- Cordova >= 3.0.0 -->
